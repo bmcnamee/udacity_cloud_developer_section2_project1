@@ -23,15 +23,15 @@ The following screenshot shows that the S3 bucket is public.
 ## Step 3
 The following screenshot shows that the S3 bucket policy has been implemented.
 
-![Step 3][Step3.png]
+![alt text](Step3.png "Step 3")
 
 ## Step 4
 The following screenshot shows that the Cloudfront Distribution has been created.
 
-![Step 4][Step4.png]
+![alt text](Step4.png "Step 4")
 
 ## Step 5
 The following screenshot shows that the website displays correctly in the browser.
 
-![Step 5][Step5.png]
+![alt text](Step5.png "Step 5")
 
